@@ -1,10 +1,10 @@
 name: Direct dowloand data v0
 
 on:
-  # push:
-  #   branches:
-  #     - main
-  #     - master
+  push:
+    branches:
+      - main
+      - master
   workflow_dispatch:
   schedule:
     - cron: '01 4,12,20 * * *'
