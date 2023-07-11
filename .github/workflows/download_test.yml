@@ -1,0 +1,32 @@
+name: Direct dowloand data v0 test
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: '01 4,12,20 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download data
+        run: |
+          wget 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > data/data.json
+
+       
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date +%FT%T%z)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push 
+
