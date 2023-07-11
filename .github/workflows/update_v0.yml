@@ -1,4 +1,4 @@
-name: Update data v3
+name: Update data v0
 
 on:
   push:
