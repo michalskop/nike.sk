@@ -1,10 +1,10 @@
-name: Direct dowloand data v0 test
+name: Direct dowloand data v0
 
 on:
-  push:
-    branches:
-      - main
-      - master
+  # push:
+  #   branches:
+  #     - main
+  #     - master
   workflow_dispatch:
   schedule:
     - cron: '01 4,12,20 * * *'
@@ -18,7 +18,8 @@ jobs:
 
       - name: Download data
         run: |
-          curl -x ${{ secrets.PROXY_SERVERS }} 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > v0/source/data_42866077.json
+          # curl -x ${{ secrets.PROXY_SERVERS }} 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > v0/source/data_42866077.json
+          curl 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > v0/source/data_42866077.json
        
       - name: Commit and push if it changed
         run: |-
