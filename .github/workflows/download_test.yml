@@ -18,7 +18,7 @@ jobs:
 
       - name: Download data
         run: |
-          wget 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > data/data.json
+          wget 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > v0/data/data.json
 
        
       - name: Commit and push if it changed
