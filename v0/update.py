@@ -15,7 +15,7 @@ df = pd.read_csv(local_path + f'data/{event_id}.csv')
 # url = f"https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?boxId=bi-137-4-26076&sportEventId={event_id}"
 url = f"https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId={event_id}"
 
-r = requests.get(url, verify=True)
+r = requests.get(url, verify=False)
 downloaded_at = datetime.datetime.now().isoformat()
 
 data = r.json()
