@@ -1051,3 +1051,157 @@ date,header,name,odds_order,odds_name,odds,odds_enabled
 2023-07-15T12:10:14.466629,Získa viac percent,Smer - PS,1.35,PS,2.7,True
 2023-07-15T12:10:14.466629,Získa viac percent,Smer - Republika,1.02,Smer,1.02,True
 2023-07-15T12:10:14.466629,Získa viac percent,Smer - Republika,1.02,Republika,7.67,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Aliancia,1500.0,áno,1500.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Aliancia,1500.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Demokrati,1500.0,áno,1500.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Demokrati,1500.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Hlas,7.15,áno,7.15,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Hlas,7.15,nie,1.03,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,KDH,350.0,áno,350.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,KDH,350.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,"Modrí, Most - Híd",3500.0,áno,3500.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,"Modrí, Most - Híd",3500.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,OĽaNO,40.0,áno,40.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,OĽaNO,40.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,PS,3.6,áno,3.6,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,PS,3.6,nie,1.2,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Republika,15.0,áno,15.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Republika,15.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,SNS,500.0,áno,500.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,SNS,500.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,SaS,500.0,áno,500.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,SaS,500.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Sme rodina,350.0,áno,350.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Sme rodina,350.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Smer,1.4,áno,1.4,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,Smer,1.4,nie,2.5,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,ĽSNS,3000.0,áno,3000.0,True
+2023-07-15T20:09:15.607668,Celkovo - Víťaz,ĽSNS,3000.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Aliancia,750.0,áno,750.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Aliancia,750.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Demokrati,750.0,áno,750.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Demokrati,750.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Hlas,2.7,áno,2.7,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Hlas,2.7,nie,1.35,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,KDH,175.0,áno,175.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,KDH,175.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,"Modrí, Most - Híd",1750.0,áno,1750.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,"Modrí, Most - Híd",1750.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,OĽaNO,20.0,áno,20.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,OĽaNO,20.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,PS,1.4,áno,1.4,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,PS,1.4,nie,2.5,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Republika,7.15,áno,7.15,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Republika,7.15,nie,1.03,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,SNS,250.0,áno,250.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,SNS,250.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,SaS,250.0,áno,250.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,SaS,250.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Sme rodina,175.0,áno,175.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Sme rodina,175.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Smer,1.07,áno,1.07,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,Smer,1.07,nie,5.7,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,ĽSNS,1500.0,áno,1500.0,True
+2023-07-15T20:09:15.607668,Umiestnenie do 2. miesta,ĽSNS,1500.0,nie,1.0,False
+2023-07-15T20:09:15.607668,Počet percent,Aliancia,1.15,menej ako 5.00,1.15,True
+2023-07-15T20:09:15.607668,Počet percent,Aliancia,1.15,viac ako 5.00,4.15,True
+2023-07-15T20:09:15.607668,Počet percent,Demokrati,1.3,menej ako 5.00,1.3,True
+2023-07-15T20:09:15.607668,Počet percent,Demokrati,1.3,viac ako 5.00,2.95,True
+2023-07-15T20:09:15.607668,Počet percent,KDH,1.91,menej ako 5.00,1.91,True
+2023-07-15T20:09:15.607668,Počet percent,KDH,1.91,viac ako 5.00,1.7,True
+2023-07-15T20:09:15.607668,Počet percent,"Modrí, Most - Híd",1.0,menej ako 5.00,1.0,False
+2023-07-15T20:09:15.607668,Počet percent,"Modrí, Most - Híd",1.0,viac ako 5.00,15.0,True
+2023-07-15T20:09:15.607668,Počet percent,OĽaNO,2.15,menej ako 7.00,2.15,True
+2023-07-15T20:09:15.607668,Počet percent,OĽaNO,2.15,viac ako 7.00,1.55,True
+2023-07-15T20:09:15.607668,Počet percent,Republika,10.0,menej ako 5.00,10.0,True
+2023-07-15T20:09:15.607668,Počet percent,Republika,10.0,viac ako 5.00,1.01,True
+2023-07-15T20:09:15.607668,Počet percent,SNS,1.98,menej ako 5.00,1.98,True
+2023-07-15T20:09:15.607668,Počet percent,SNS,1.98,viac ako 5.00,1.65,True
+2023-07-15T20:09:15.607668,Počet percent,SaS,2.25,menej ako 5.00,2.25,True
+2023-07-15T20:09:15.607668,Počet percent,SaS,2.25,viac ako 5.00,1.5,True
+2023-07-15T20:09:15.607668,Počet percent,Sme rodina,2.0,menej ako 5.00,2.0,True
+2023-07-15T20:09:15.607668,Počet percent,Sme rodina,2.0,viac ako 5.00,1.64,True
+2023-07-15T20:09:15.607668,Počet percent,ĽSNS,1.0,menej ako 5.00,1.0,False
+2023-07-15T20:09:15.607668,Počet percent,ĽSNS,1.0,viac ako 5.00,15.0,True
+2023-07-15T20:09:15.607668,Počet percent,Hlas,10.0,menej ako 5.00,10.0,True
+2023-07-15T20:09:15.607668,Počet percent,Hlas,10.0,viac ako 5.00,1.01,True
+2023-07-15T20:09:15.607668,Získa viac percent,Aliancia - Demokrati,1.8,Aliancia,1.8,True
+2023-07-15T20:09:15.607668,Získa viac percent,Aliancia - Demokrati,1.8,Demokrati,1.8,True
+2023-07-15T20:09:15.607668,Získa viac percent,Aliancia - ĽSNS,1.2,Aliancia,1.2,True
+2023-07-15T20:09:15.607668,Získa viac percent,Aliancia - ĽSNS,1.2,ĽSNS,3.6,True
+2023-07-15T20:09:15.607668,Získa viac percent,Demokrati - ĽSNS,1.2,Demokrati,1.2,True
+2023-07-15T20:09:15.607668,Získa viac percent,Demokrati - ĽSNS,1.2,ĽSNS,3.6,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - KDH,1.1,Hlas,1.1,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - KDH,1.1,KDH,4.95,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - OĽaNO,1.2,Hlas,1.2,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - OĽaNO,1.2,OĽaNO,3.6,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - Republika,1.6,Hlas,1.6,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - Republika,1.6,Republika,2.06,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - SNS,1.07,Hlas,1.07,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - SNS,1.07,SNS,5.67,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - SaS,1.07,Hlas,1.07,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - SaS,1.07,SaS,5.67,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - Sme rodina,1.1,Hlas,1.1,True
+2023-07-15T20:09:15.607668,Získa viac percent,Hlas - Sme rodina,1.1,Sme rodina,4.95,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - Demokrati,1.3,KDH,1.3,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - Demokrati,1.3,Demokrati,2.93,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - SNS,1.65,KDH,1.65,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - SNS,1.65,SNS,1.98,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - SaS,1.65,KDH,1.65,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - SaS,1.65,SaS,1.98,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - Sme rodina,1.85,KDH,1.85,True
+2023-07-15T20:09:15.607668,Získa viac percent,KDH - Sme rodina,1.85,Sme rodina,1.75,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - Demokrati,1.04,OĽaNO,1.04,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - Demokrati,1.04,Demokrati,6.7,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - KDH,1.4,OĽaNO,1.4,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - KDH,1.4,KDH,2.52,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - SNS,1.28,OĽaNO,1.28,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - SNS,1.28,SNS,3.03,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - SaS,1.28,OĽaNO,1.28,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - SaS,1.28,SaS,3.03,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - Sme rodina,1.4,OĽaNO,1.4,True
+2023-07-15T20:09:15.607668,Získa viac percent,OĽaNO - Sme rodina,1.4,Sme rodina,2.52,True
+2023-07-15T20:09:15.607668,Získa viac percent,PS - Hlas,1.35,PS,1.35,True
+2023-07-15T20:09:15.607668,Získa viac percent,PS - Hlas,1.35,Hlas,2.7,True
+2023-07-15T20:09:15.607668,Získa viac percent,PS - OĽaNO,1.04,PS,1.04,True
+2023-07-15T20:09:15.607668,Získa viac percent,PS - OĽaNO,1.04,OĽaNO,6.7,True
+2023-07-15T20:09:15.607668,Získa viac percent,PS - Republika,1.15,PS,1.15,True
+2023-07-15T20:09:15.607668,Získa viac percent,PS - Republika,1.15,Republika,4.14,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - KDH,1.15,Republika,1.15,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - KDH,1.15,KDH,4.14,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - OĽaNO,1.35,Republika,1.35,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - OĽaNO,1.35,OĽaNO,2.7,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - SNS,1.12,Republika,1.12,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - SNS,1.12,SNS,4.58,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - SaS,1.12,Republika,1.12,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - SaS,1.12,SaS,4.58,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - Sme rodina,1.15,Republika,1.15,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - Sme rodina,1.15,Sme rodina,4.14,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - ĽSNS,1.01,Republika,1.01,True
+2023-07-15T20:09:15.607668,Získa viac percent,Republika - ĽSNS,1.01,ĽSNS,8.28,True
+2023-07-15T20:09:15.607668,Získa viac percent,SNS - Aliancia,1.4,SNS,1.4,True
+2023-07-15T20:09:15.607668,Získa viac percent,SNS - Aliancia,1.4,Aliancia,2.52,True
+2023-07-15T20:09:15.607668,Získa viac percent,SNS - Demokrati,1.4,SNS,1.4,True
+2023-07-15T20:09:15.607668,Získa viac percent,SNS - Demokrati,1.4,Demokrati,2.52,True
+2023-07-15T20:09:15.607668,Získa viac percent,SNS - ĽSNS,1.05,SNS,1.05,True
+2023-07-15T20:09:15.607668,Získa viac percent,SNS - ĽSNS,1.05,ĽSNS,6.31,True
+2023-07-15T20:09:15.607668,Získa viac percent,SaS - Aliancia,1.3,SaS,1.3,True
+2023-07-15T20:09:15.607668,Získa viac percent,SaS - Aliancia,1.3,Aliancia,2.93,True
+2023-07-15T20:09:15.607668,Získa viac percent,SaS - Demokrati,1.35,SaS,1.35,True
+2023-07-15T20:09:15.607668,Získa viac percent,SaS - Demokrati,1.35,Demokrati,2.7,True
+2023-07-15T20:09:15.607668,Získa viac percent,SaS - SNS,1.8,SaS,1.8,True
+2023-07-15T20:09:15.607668,Získa viac percent,SaS - SNS,1.8,SNS,1.8,True
+2023-07-15T20:09:15.607668,Získa viac percent,Sme rodina - Demokrati,1.3,Sme rodina,1.3,True
+2023-07-15T20:09:15.607668,Získa viac percent,Sme rodina - Demokrati,1.3,Demokrati,2.93,True
+2023-07-15T20:09:15.607668,Získa viac percent,Sme rodina - SNS,1.65,Sme rodina,1.65,True
+2023-07-15T20:09:15.607668,Získa viac percent,Sme rodina - SNS,1.65,SNS,1.98,True
+2023-07-15T20:09:15.607668,Získa viac percent,Sme rodina - SaS,1.65,Sme rodina,1.65,True
+2023-07-15T20:09:15.607668,Získa viac percent,Sme rodina - SaS,1.65,SaS,1.98,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - Hlas,1.1,Smer,1.1,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - Hlas,1.1,Hlas,4.95,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - OĽaNO,1.01,Smer,1.01,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - OĽaNO,1.01,OĽaNO,8.28,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - PS,1.35,Smer,1.35,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - PS,1.35,PS,2.7,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - Republika,1.02,Smer,1.02,True
+2023-07-15T20:09:15.607668,Získa viac percent,Smer - Republika,1.02,Republika,7.67,True
