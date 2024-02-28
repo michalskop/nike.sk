@@ -18,7 +18,7 @@ jobs:
 
       - name: Download data
         run: |
-          curl -x ${{ secrets.PROXY_SERVERS }} 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=42866077' > v0/source/data_42866077.json
+          curl -x ${{ secrets.PROXY_SERVERS }} 'https://api.nike.sk/api/nikeone/v1/boxes/extended/sport-event-id?sportEventId=43804672' > v0/source/data_43804672.json
        
       - name: Commit and push if it changed
         run: |-
