@@ -1621,3 +1621,90 @@ date,header,name,odds_order,odds_name,odds,odds_enabled
 2024-03-18T04:20:20.852980,Počet percent,Harabin Štefan,1.5,viac ako 14.00,2.42,True
 2024-03-18T04:20:20.852980,Počet percent,Dubovský Patrik,1.7,menej ako 1.00,1.7,True
 2024-03-18T04:20:20.852980,Počet percent,Dubovský Patrik,1.7,viac ako 1.00,2.04,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Pellegrini Peter,1.6,áno,1.6,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Korčok Ivan,2.25,áno,2.25,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Kubiš Ján,4000.0,áno,4000.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Harabin Štefan,50.0,áno,50.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Forró Krisztián,4000.0,áno,4000.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Kotleba Marian,5500.0,áno,5500.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Danko Andrej,5500.0,áno,5500.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Náhlik Milan,6000.0,áno,6000.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Matovič Igor,2500.0,áno,2500.0,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Dubovský Patrik,5500.0,áno,5500.0,True
+2024-03-18T06:20:49.752432,Účasť voličov v percentách,,2.12,menej ako 52.00,2.12,True
+2024-03-18T06:20:49.752432,Účasť voličov v percentách,,2.12,viac ako 52.00,1.65,True
+2024-03-18T06:20:49.752432,Prezident bude zvolený v 1. kole,Prezident bude zvolený v 1. kole,350.0,áno,350.0,True
+2024-03-18T06:20:49.752432,Prezident bude zvolený v 1. kole,Prezident bude zvolený v 1. kole,350.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Účasť voličov v percentách,,3.25,menej ako 50.00,3.25,True
+2024-03-18T06:20:49.752432,Účasť voličov v percentách,,3.25,viac ako 50.00,1.3,True
+2024-03-18T06:20:49.752432,V ktorom kole bude vyššia účasť voličov,1. kolo - 2. kolo,1.55,1. kolo,1.55,True
+2024-03-18T06:20:49.752432,V ktorom kole bude vyššia účasť voličov,1. kolo - 2. kolo,1.55,2. kolo,2.25,True
+2024-03-18T06:20:49.752432,Celkovo - Víťaz,Švec Róbert,6000.0,áno,6000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Pellegrini Peter,1.0,áno,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Pellegrini Peter,1.0,nie,20.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Korčok Ivan,1.0,áno,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Korčok Ivan,1.0,nie,20.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Kubiš Ján,2000.0,áno,2000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Kubiš Ján,2000.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Harabin Štefan,25.0,áno,25.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Harabin Štefan,25.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Forró Krisztián,2000.0,áno,2000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Forró Krisztián,2000.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Kotleba Marian,3000.0,áno,3000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Kotleba Marian,3000.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Danko Andrej,3000.0,áno,3000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Danko Andrej,3000.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Náhlik Milan,3500.0,áno,3500.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Náhlik Milan,3500.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Matovič Igor,1000.0,áno,1000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Matovič Igor,1000.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Dubovský Patrik,3000.0,áno,3000.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Dubovský Patrik,3000.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Postup do 2. kola,Švec Róbert,3500.0,áno,3500.0,True
+2024-03-18T06:20:49.752432,Postup do 2. kola,Švec Róbert,3500.0,nie,1.0,False
+2024-03-18T06:20:49.752432,Získa viac percent,Harabin Štefan - Matovič Igor,1.07,Harabin Štefan,1.07,True
+2024-03-18T06:20:49.752432,Získa viac percent,Harabin Štefan - Matovič Igor,1.07,Matovič Igor,5.67,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kubiš Ján - Forró Krisztián,1.95,Kubiš Ján,1.95,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kubiš Ján - Forró Krisztián,1.95,Forró Krisztián,1.65,True
+2024-03-18T06:20:49.752432,Účasť voličov v percentách,,1.4,menej ako 54.00,1.4,True
+2024-03-18T06:20:49.752432,Účasť voličov v percentách,,1.4,viac ako 54.00,2.74,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kotleba Marian - Dubovský Patrik,1.38,Kotleba Marian,1.38,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kotleba Marian - Dubovský Patrik,1.38,Dubovský Patrik,2.59,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kubiš Ján - Kotleba Marian,1.1,Kubiš Ján,1.1,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kubiš Ján - Kotleba Marian,1.1,Kotleba Marian,4.95,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kubiš Ján - Dubovský Patrik,1.12,Kubiš Ján,1.12,True
+2024-03-18T06:20:49.752432,Získa viac percent,Kubiš Ján - Dubovský Patrik,1.12,Dubovský Patrik,4.6,True
+2024-03-18T06:20:49.752432,Získa viac percent,Forró Krisztián - Kotleba Marian,1.1,Forró Krisztián,1.1,True
+2024-03-18T06:20:49.752432,Získa viac percent,Forró Krisztián - Kotleba Marian,1.1,Kotleba Marian,4.95,True
+2024-03-18T06:20:49.752432,Získa viac percent,Forró Krisztián - Dubovský Patrik,1.15,Forró Krisztián,1.15,True
+2024-03-18T06:20:49.752432,Získa viac percent,Forró Krisztián - Dubovský Patrik,1.15,Dubovský Patrik,4.15,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Kubiš Ján,1.28,Matovič Igor,1.28,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Kubiš Ján,1.28,Kubiš Ján,3.03,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Forró Krisztián,1.3,Matovič Igor,1.3,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Forró Krisztián,1.3,Forró Krisztián,2.93,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Kotleba Marian,1.05,Matovič Igor,1.05,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Kotleba Marian,1.05,Kotleba Marian,6.31,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Dubovský Patrik,1.05,Matovič Igor,1.05,True
+2024-03-18T06:20:49.752432,Získa viac percent,Matovič Igor - Dubovský Patrik,1.05,Dubovský Patrik,6.31,True
+2024-03-18T06:20:49.752432,Víťaz prvého kola sa stane aj celkovým víťazom volieb,,1.55,áno,1.55,True
+2024-03-18T06:20:49.752432,Víťaz prvého kola sa stane aj celkovým víťazom volieb,,1.55,nie,2.3,True
+2024-03-18T06:20:49.752432,Vyhrá prvé kolo a stane sa aj celkovým víťazom volieb,Pellegrini Peter,1.62,áno,1.62,True
+2024-03-18T06:20:49.752432,Vyhrá prvé kolo a stane sa aj celkovým víťazom volieb,Pellegrini Peter,1.62,nie,2.15,True
+2024-03-18T06:20:49.752432,Vyhrá prvé kolo a stane sa aj celkovým víťazom volieb,Korčok Ivan,3.15,áno,3.15,True
+2024-03-18T06:20:49.752432,Vyhrá prvé kolo a stane sa aj celkovým víťazom volieb,Korčok Ivan,3.15,nie,1.28,True
+2024-03-18T06:20:49.752432,Počet percent,Pellegrini Peter,1.76,menej ako 36.50,1.76,True
+2024-03-18T06:20:49.752432,Počet percent,Pellegrini Peter,1.76,viac ako 36.50,1.95,True
+2024-03-18T06:20:49.752432,Počet percent,Korčok Ivan,1.7,menej ako 35.50,1.7,True
+2024-03-18T06:20:49.752432,Počet percent,Korčok Ivan,1.7,viac ako 35.50,2.05,True
+2024-03-18T06:20:49.752432,Počet percent,Kubiš Ján,1.7,menej ako 3.50,1.7,True
+2024-03-18T06:20:49.752432,Počet percent,Kubiš Ján,1.7,viac ako 3.50,2.04,True
+2024-03-18T06:20:49.752432,Počet percent,Forró Krisztián,1.85,menej ako 3.00,1.85,True
+2024-03-18T06:20:49.752432,Počet percent,Forró Krisztián,1.85,viac ako 3.00,1.85,True
+2024-03-18T06:20:49.752432,Počet percent,Matovič Igor,1.5,menej ako 5.00,1.5,True
+2024-03-18T06:20:49.752432,Počet percent,Matovič Igor,1.5,viac ako 5.00,2.42,True
+2024-03-18T06:20:49.752432,Počet percent,Kotleba Marian,1.76,menej ako 1.50,1.76,True
+2024-03-18T06:20:49.752432,Počet percent,Kotleba Marian,1.76,viac ako 1.50,1.95,True
+2024-03-18T06:20:49.752432,Počet percent,Harabin Štefan,1.5,menej ako 14.00,1.5,True
+2024-03-18T06:20:49.752432,Počet percent,Harabin Štefan,1.5,viac ako 14.00,2.42,True
+2024-03-18T06:20:49.752432,Počet percent,Dubovský Patrik,1.7,menej ako 1.00,1.7,True
+2024-03-18T06:20:49.752432,Počet percent,Dubovský Patrik,1.7,viac ako 1.00,2.04,True
