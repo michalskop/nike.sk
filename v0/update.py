@@ -7,9 +7,16 @@ import pandas as pd
 
 local_path = "v0/"
 
-event_ids = [43804672, 43804671]
+event_ids = [44177136, 44525488]
 
 for event_id in event_ids:
+  # create the file if not exists
+  # header = date,header,name,odds_order,odds_name,odds,odds_enabled
+  try:
+    df = pd.read_csv(local_path + f'data/{event_id}.csv')
+  except:
+    df = pd.DataFrame(columns=['date', 'header', 'name', 'odds_order', 'odds_name', 'odds', 'odds_enabled'])
+    df.to_csv(local_path + f'data/{event_id}.csv', index=False)
   # load dataframe
   df = pd.read_csv(local_path + f'data/{event_id}.csv')
 
