@@ -639,3 +639,97 @@ date,header,name,odds_order,odds_name,odds,odds_enabled
 2024-06-02T20:17:19.480589,Počet percent,Progresívne Slovensko,1.63,viac ako 25.00,2.1,True
 2024-06-02T20:17:19.480589,Počet percent,Smer - SD,1.66,menej ako 25.00,1.66,True
 2024-06-02T20:17:19.480589,Počet percent,Smer - SD,1.66,viac ako 25.00,2.05,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,KDH,165.0,áno,165.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,KDH,165.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,SaS,175.0,áno,175.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,SaS,175.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Republika,90.0,áno,90.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Republika,90.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,SNS,550.0,áno,550.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,SNS,550.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,"Slovensko, Za ľudí",500.0,áno,500.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,"Slovensko, Za ľudí",500.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Maďarská aliancia,450.0,áno,450.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Maďarská aliancia,450.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Demokrati,400.0,áno,400.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Demokrati,400.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,ĽSNS,850.0,áno,850.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,ĽSNS,850.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Progresívne Slovensko,1.95,áno,1.95,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Progresívne Slovensko,1.95,nie,1.71,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Smer - SD,1.75,áno,1.75,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Smer - SD,1.75,nie,1.9,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Hlas - SD,65.0,áno,65.0,True
+2024-06-03T04:17:57.633662,Celkovo - Víťaz,Hlas - SD,65.0,nie,1.0,False
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,2.3,menej ako 30.00,2.3,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,2.3,viac ako 30.00,1.55,True
+2024-06-03T04:17:57.633662,Získa viac percent,KDH - SaS,1.58,KDH,1.58,True
+2024-06-03T04:17:57.633662,Získa viac percent,KDH - SaS,1.58,SaS,2.09,True
+2024-06-03T04:17:57.633662,Získa viac percent,KDH - SNS,1.17,KDH,1.17,True
+2024-06-03T04:17:57.633662,Získa viac percent,KDH - SNS,1.17,SNS,3.9,True
+2024-06-03T04:17:57.633662,Získa viac percent,"KDH - Slovensko, Za ľudí",1.2,KDH,1.2,True
+2024-06-03T04:17:57.633662,Získa viac percent,"KDH - Slovensko, Za ľudí",1.2,"Slovensko, Za ľudí",3.6,True
+2024-06-03T04:17:57.633662,Získa viac percent,KDH - Demokrati,1.25,KDH,1.25,True
+2024-06-03T04:17:57.633662,Získa viac percent,KDH - Demokrati,1.25,Demokrati,3.22,True
+2024-06-03T04:17:57.633662,Získa viac percent,SaS - SNS,1.2,SaS,1.2,True
+2024-06-03T04:17:57.633662,Získa viac percent,SaS - SNS,1.2,SNS,3.6,True
+2024-06-03T04:17:57.633662,Získa viac percent,"SaS - Slovensko, Za ľudí",1.27,SaS,1.27,True
+2024-06-03T04:17:57.633662,Získa viac percent,"SaS - Slovensko, Za ľudí",1.27,"Slovensko, Za ľudí",3.09,True
+2024-06-03T04:17:57.633662,Získa viac percent,SaS - Demokrati,1.3,SaS,1.3,True
+2024-06-03T04:17:57.633662,Získa viac percent,SaS - Demokrati,1.3,Demokrati,3.09,True
+2024-06-03T04:17:57.633662,Získa viac percent,Republika - KDH,1.3,Republika,1.3,True
+2024-06-03T04:17:57.633662,Získa viac percent,Republika - KDH,1.3,KDH,2.93,True
+2024-06-03T04:17:57.633662,Získa viac percent,Republika - SaS,1.3,Republika,1.3,True
+2024-06-03T04:17:57.633662,Získa viac percent,Republika - SaS,1.3,SaS,2.93,True
+2024-06-03T04:17:57.633662,Získa viac percent,SNS - Maďarská aliancia,1.89,SNS,1.89,True
+2024-06-03T04:17:57.633662,Získa viac percent,SNS - Maďarská aliancia,1.89,Maďarská aliancia,1.72,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Slovensko, Za ľudí - SNS",1.68,"Slovensko, Za ľudí",1.68,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Slovensko, Za ľudí - SNS",1.68,SNS,2.02,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Slovensko, Za ľudí - Maďarská aliancia",1.8,"Slovensko, Za ľudí",1.8,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Slovensko, Za ľudí - Maďarská aliancia",1.8,Maďarská aliancia,1.8,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Slovensko, Za ľudí - Demokrati",1.94,"Slovensko, Za ľudí",1.94,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Slovensko, Za ľudí - Demokrati",1.94,Demokrati,1.68,True
+2024-06-03T04:17:57.633662,Získa viac percent,Demokrati - SNS,1.64,Demokrati,1.64,True
+2024-06-03T04:17:57.633662,Získa viac percent,Demokrati - SNS,1.64,SNS,2.0,True
+2024-06-03T04:17:57.633662,Získa viac percent,Demokrati - Maďarská aliancia,1.7,Demokrati,1.7,True
+2024-06-03T04:17:57.633662,Získa viac percent,Demokrati - Maďarská aliancia,1.7,Maďarská aliancia,1.91,True
+2024-06-03T04:17:57.633662,Získa viac percent,Hlas - SD - KDH,1.18,Hlas - SD,1.18,True
+2024-06-03T04:17:57.633662,Získa viac percent,Hlas - SD - KDH,1.18,KDH,3.79,True
+2024-06-03T04:17:57.633662,Získa viac percent,Hlas - SD - SaS,1.11,Hlas - SD,1.11,True
+2024-06-03T04:17:57.633662,Získa viac percent,Hlas - SD - SaS,1.11,SaS,4.76,True
+2024-06-03T04:17:57.633662,Získa viac percent,Hlas - SD - Republika,1.42,Hlas - SD,1.42,True
+2024-06-03T04:17:57.633662,Získa viac percent,Hlas - SD - Republika,1.42,Republika,2.46,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,1.66,menej ako 32.00,1.66,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,1.66,viac ako 32.00,2.1,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,1.3,menej ako 34.00,1.3,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,1.3,viac ako 34.00,3.2,True
+2024-06-03T04:17:57.633662,Počet percent,KDH,3.67,menej ako 5.00,3.67,True
+2024-06-03T04:17:57.633662,Počet percent,KDH,3.67,viac ako 5.00,1.22,True
+2024-06-03T04:17:57.633662,Počet percent,SaS,3.09,menej ako 5.00,3.09,True
+2024-06-03T04:17:57.633662,Počet percent,SaS,3.09,viac ako 5.00,1.3,True
+2024-06-03T04:17:57.633662,Počet percent,Republika,5.5,menej ako 5.00,5.5,True
+2024-06-03T04:17:57.633662,Počet percent,Republika,5.5,viac ako 5.00,1.1,True
+2024-06-03T04:17:57.633662,Počet percent,SNS,1.18,menej ako 5.00,1.18,True
+2024-06-03T04:17:57.633662,Počet percent,SNS,1.18,viac ako 5.00,4.1,True
+2024-06-03T04:17:57.633662,Počet percent,"Slovensko, Za ľudí",1.3,menej ako 5.00,1.3,True
+2024-06-03T04:17:57.633662,Počet percent,"Slovensko, Za ľudí",1.3,viac ako 5.00,3.09,True
+2024-06-03T04:17:57.633662,Počet percent,Maďarská aliancia,1.35,menej ako 5.00,1.35,True
+2024-06-03T04:17:57.633662,Počet percent,Maďarská aliancia,1.35,viac ako 5.00,2.88,True
+2024-06-03T04:17:57.633662,Počet percent,Demokrati,1.43,menej ako 5.00,1.43,True
+2024-06-03T04:17:57.633662,Počet percent,Demokrati,1.43,viac ako 5.00,2.57,True
+2024-06-03T04:17:57.633662,Počet percent,ĽSNS,1.01,menej ako 5.00,1.01,True
+2024-06-03T04:17:57.633662,Počet percent,ĽSNS,1.01,viac ako 5.00,13.0,True
+2024-06-03T04:17:57.633662,Počet percent,Progresívne Slovensko,20.0,menej ako 5.00,20.0,True
+2024-06-03T04:17:57.633662,Počet percent,Progresívne Slovensko,20.0,viac ako 5.00,1.0,False
+2024-06-03T04:17:57.633662,Počet percent,Smer - SD,25.0,menej ako 5.00,25.0,True
+2024-06-03T04:17:57.633662,Počet percent,Smer - SD,25.0,viac ako 5.00,1.0,False
+2024-06-03T04:17:57.633662,Počet percent,Hlas - SD,7.28,menej ako 5.00,7.28,True
+2024-06-03T04:17:57.633662,Počet percent,Hlas - SD,7.28,viac ako 5.00,1.05,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Republika - Slovensko, Za ľudí",1.13,Republika,1.13,True
+2024-06-03T04:17:57.633662,Získa viac percent,"Republika - Slovensko, Za ľudí",1.13,"Slovensko, Za ľudí",4.85,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,1.14,menej ako 36.00,1.14,True
+2024-06-03T04:17:57.633662,Účasť voličov v percentách,,1.14,viac ako 36.00,4.9,True
+2024-06-03T04:17:57.633662,Počet percent,Progresívne Slovensko,1.63,menej ako 25.00,1.63,True
+2024-06-03T04:17:57.633662,Počet percent,Progresívne Slovensko,1.63,viac ako 25.00,2.1,True
+2024-06-03T04:17:57.633662,Počet percent,Smer - SD,1.66,menej ako 25.00,1.66,True
+2024-06-03T04:17:57.633662,Počet percent,Smer - SD,1.66,viac ako 25.00,2.05,True
